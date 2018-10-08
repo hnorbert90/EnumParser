@@ -3,3 +3,6 @@ packages
 /EnumParserTests/obj
 bin
 /EnumParser/obj
+
+EnumParser/EnumParser/bin
+EnumParser/EnumParser/obj
